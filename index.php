@@ -23,7 +23,48 @@
 	</nav>
 
 	<div class="container">
-		<center><h1>coming soon</h1></center>
+		
+		<div class="section-header">Featured</div>
+
+		<div class="row">
+			<div class="col-md-3">
+				<div class="card">
+					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
+					<div class="card-content">
+						<div class="card-title">Project Title</div>
+						<p>Hi</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="card">
+					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
+					<div class="card-content">
+						<div class="card-title">Project Title</div>
+						<p>Hi</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="card">
+					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
+					<div class="card-content">
+						<div class="card-title">Project Title</div>
+						<p>Hi</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="card">
+					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
+					<div class="card-content">
+						<div class="card-title">Project Title</div>
+						<p>Hi</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
 	</div>
 
 	<footer class="footer">
