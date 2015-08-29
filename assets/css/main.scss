@@ -18,6 +18,10 @@ body {
 	font-family: "RobotoDraft", Arial, Helvetica, sans-serif;
 }
 
+.clear {
+	clear: both;
+}
+
 /* Navigation */
 
 .nav {
@@ -57,6 +61,88 @@ body {
 			}
 		}
 	}
+}
+
+/* Hero Navigation */
+
+.nav-hero {
+	top: 0;
+	width: 100%;
+	height: 60px;
+	z-index: 9999;
+	position: fixed;
+	padding-top: 15px;
+	transition: all 0.5s ease;
+	&>.nav-inner {
+		width: 75%;
+		margin: 0px;
+		padding: 0px;
+		margin-left: auto;
+		margin-right: auto;
+		border-radius: 3px;
+		transition: all 0.5s ease;
+		background: rgba(96, 125, 139, 0.7);
+		box-shadow: 0 1px 4px rgba(0, 0, 0, 0.37);
+		&>.brand {
+			width: auto;
+			height: 60px;
+			color: $icons;
+			display: block;
+			font-size: 17px;
+			font-weight: 500;
+			line-height: 60px;
+			margin-right: 15px;
+			padding-left: 15px;
+			padding-right: 15px;
+			text-decoration: none;
+			transition: all 0.18s ease;
+			border-top-left-radius: 3px;
+			border-bottom-left-radius: 3px;
+			&:hover {
+				background: $nav-hover;
+				transition: all 0.18s ease;
+			}
+		}
+		&>a {
+			float: left;
+			width: auto;
+			height: 60px;
+			color: $icons;
+			display: block;
+			font-size: 15px;
+			min-width: 70px;
+			line-height: 60px;
+			padding-left: 15px;
+			text-align: center;
+			padding-right: 15px;
+			text-decoration: none;
+			transition: all 0.18s ease;
+			&:hover {
+				transition: all 0.18s ease;
+				background: $nav-hover;
+			}
+		}
+	}
+}
+
+@media (max-width: 800px) {
+    .nav-hero {
+        padding-top: 0px;
+        transition: all 0.5s ease;
+        &>.nav-inner {
+            width: 100%;
+            border-radius: 0px;
+            transition: all 0.5s ease;
+        }
+    }
+}
+
+@media (min-width: 800px) and (max-width: 1080px) {
+    .nav-hero {
+        .nav-inner {
+            width: 90%;
+        }
+    }
 }
 
 /* Hero */

@@ -22,6 +22,15 @@
 		</div>
 	</nav> -->
 
+	<nav class="nav-hero">
+		<div class="nav-inner">
+			<a class="brand" href="#">Project Byte</a>
+			<a href="#" style="margin-left: 15px;">Home</a>
+			<a href="#">Browse</a>
+			<div class="clear"></div>
+		</div>
+	</nav>
+
 	<div class="hero-wrapper">
 		<div class="hero">
 			<div class="header_main">
