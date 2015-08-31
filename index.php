@@ -38,7 +38,7 @@
 				<h2>Project Byte</h2>
 				<h3>A Collection of Bytes</h3>
 				<br /><br />
-				<a href="#" class="hero-button">View Projects</a>
+				<a href="#" class="hero-button">Browse Projects</a>
 			</div>
 		</div>
 	</div>
@@ -48,7 +48,7 @@
 		<div class="section-header">Featured</div>
 
 		<div class="row">
-			<div class="col-md-3">
+			<div class="col-xs-12 col-sm-6 col-md-3">
 				<div class="card">
 					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 					<div class="card-content">
@@ -57,7 +57,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-xs-12 col-sm-6 col-md-3">
 				<div class="card">
 					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 					<div class="card-content">
@@ -66,7 +66,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-xs-12 col-sm-6 col-md-3">
 				<div class="card">
 					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 					<div class="card-content">
@@ -75,7 +75,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-xs-12 col-sm-6 col-md-3">
 				<div class="card">
 					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 					<div class="card-content">
@@ -90,7 +90,7 @@
 			<div class="col-md-6">
 				<div class="section-header">Recent</div>
 				<div class="row">
-					<div class="col-md-6">
+					<div class="col-sm-6 col-md-6">
 						<div class="card">
 							<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 							<div class="card-content">
@@ -99,7 +99,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6">
+					<div class="col-sm-6 col-md-6">
 						<div class="card">
 							<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 							<div class="card-content">
@@ -113,7 +113,7 @@
 			<div class="col-md-6">
 				<div class="section-header">Discussion</div>
 				<div class="row">
-					<div class="col-md-6">
+					<div class="col-sm-6 col-md-6">
 						<div class="card">
 							<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 							<div class="card-content">
@@ -122,7 +122,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6">
+					<div class="col-sm-6 col-md-6">
 						<div class="card">
 							<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 							<div class="card-content">

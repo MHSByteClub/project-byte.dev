@@ -150,6 +150,7 @@ body {
 .hero {
 	height: 100vh;
 	position: relative;
+	margin-bottom: 20px;
 	background-image: url(http://negativespace.co/wp-content/uploads/2015/06/xnegativespace-24-1300x867.jpg.pagespeed.ic.wUygVOjL-i.webp);
 	background-size: cover;
 	box-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
@@ -175,7 +176,7 @@ body {
 		text-shadow: 0 4px 4px rgba(0, 0, 0, 0.8);
 	}
 	&>.hero-button {
-		width: 225px;
+		width: 300px;
 		color: $icons;
 		display: block;
 		font-size: 20px;
@@ -201,7 +202,7 @@ body {
         top: 25%;
         transition: all 0.5s ease;
         &>.hero-button {
-            width: 60%;
+            width: 70%;
             margin-left: auto;
             margin-right: auto;
             transition: all 0.5s ease;
@@ -221,6 +222,14 @@ body {
 	width: 70%;
 	margin-left: auto;
 	margin-right: auto;
+	transition: all 0.5s ease;
+}
+
+@media (max-width: 800px) {
+	.container {
+		width: 90%;
+		transition: all 0.5s ease;
+	}
 }
 
 /* Footer */
