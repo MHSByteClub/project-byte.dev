@@ -20,7 +20,7 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-6 col-md-3">
 				<div class="card hover">
-					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
+					<img src="http://placehold.it/500x500?text=Text+Is+Cool" />
 					<div class="card-content">
 						<div class="card-title"><a href="#">Project Title</a></div>
 						<p>Hi</p>
@@ -29,7 +29,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3">
 				<div class="card hover">
-					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
+					<img src="http://placehold.it/500x500?text=Text+Is+Cool" />
 					<div class="card-content">
 						<div class="card-title"><a href="#">Project Title</a></div>
 						<p>Hi</p>
@@ -38,7 +38,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3">
 				<div class="card hover">
-					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
+					<img src="http://placehold.it/500x500?text=Text+Is+Cool" />
 					<div class="card-content">
 						<div class="card-title"><a href="#">Project Title</a></div>
 						<p>Hi</p>
@@ -47,7 +47,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3">
 				<div class="card hover">
-					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
+					<img src="http://placehold.it/500x500?text=Text+Is+Cool" />
 					<div class="card-content">
 						<div class="card-title"><a href="#">Project Title</a></div>
 						<p>Hi</p>
@@ -62,7 +62,7 @@
 				<div class="row">
 					<div class="col-sm-6 col-md-6">
 						<div class="card hover">
-							<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
+							<img src="http://placehold.it/500x500?text=Text+Is+Cool" />
 							<div class="card-content">
 								<div class="card-title"><a href="#">Project Title</a></div>
 								<p>Hi</p>
@@ -71,7 +71,7 @@
 					</div>
 					<div class="col-sm-6 col-md-6">
 						<div class="card hover">
-							<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
+							<img src="http://placehold.it/500x500?text=Text+Is+Cool" />
 							<div class="card-content">
 								<div class="card-title"><a href="#">Project Title</a></div>
 								<p>Hi</p>
@@ -85,7 +85,7 @@
 				<div class="row">
 					<div class="col-sm-6 col-md-6">
 						<div class="card hover">
-							<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
+							<img src="http://placehold.it/500x500?text=Text+Is+Cool" />
 							<div class="card-content">
 								<div class="card-title"><a href="#">Project Title</a></div>
 								<p>Hi</p>
@@ -94,7 +94,7 @@
 					</div>
 					<div class="col-sm-6 col-md-6">
 						<div class="card hover">
-							<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
+							<img src="http://placehold.it/500x500?text=Text+Is+Cool" />
 							<div class="card-content">
 								<div class="card-title"><a href="#">Project Title</a></div>
 								<p>Hi</p>
