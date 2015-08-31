@@ -19,37 +19,37 @@
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-6 col-md-3">
-				<div class="card">
+				<div class="card hover">
 					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 					<div class="card-content">
-						<div class="card-title">Project Title</div>
+						<div class="card-title"><a href="#">Project Title</a></div>
 						<p>Hi</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3">
-				<div class="card">
+				<div class="card hover">
 					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 					<div class="card-content">
-						<div class="card-title">Project Title</div>
+						<div class="card-title"><a href="#">Project Title</a></div>
 						<p>Hi</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3">
-				<div class="card">
+				<div class="card hover">
 					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 					<div class="card-content">
-						<div class="card-title">Project Title</div>
+						<div class="card-title"><a href="#">Project Title</a></div>
 						<p>Hi</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3">
-				<div class="card">
+				<div class="card hover">
 					<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 					<div class="card-content">
-						<div class="card-title">Project Title</div>
+						<div class="card-title"><a href="#">Project Title</a></div>
 						<p>Hi</p>
 					</div>
 				</div>
@@ -61,19 +61,19 @@
 				<div class="section-header">Recent</div>
 				<div class="row">
 					<div class="col-sm-6 col-md-6">
-						<div class="card">
+						<div class="card hover">
 							<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 							<div class="card-content">
-								<div class="card-title">Project Title</div>
+								<div class="card-title"><a href="#">Project Title</a></div>
 								<p>Hi</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-6">
-						<div class="card">
+						<div class="card hover">
 							<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 							<div class="card-content">
-								<div class="card-title">Project Title</div>
+								<div class="card-title"><a href="#">Project Title</a></div>
 								<p>Hi</p>
 							</div>
 						</div>
@@ -84,19 +84,19 @@
 				<div class="section-header">Discussion</div>
 				<div class="row">
 					<div class="col-sm-6 col-md-6">
-						<div class="card">
+						<div class="card hover">
 							<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 							<div class="card-content">
-								<div class="card-title">Project Title</div>
+								<div class="card-title"><a href="#">Project Title</a></div>
 								<p>Hi</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-6">
-						<div class="card">
+						<div class="card hover">
 							<img src="http://placehold.it/500x500?text=Text%20Is%20Cool" />
 							<div class="card-content">
-								<div class="card-title">Project Title</div>
+								<div class="card-title"><a href="#">Project Title</a></div>
 								<p>Hi</p>
 							</div>
 						</div>
@@ -107,17 +107,4 @@
 
 	</div>
 
-	<footer class="footer">
-		<!-- Not needed for now <div class="footer-inner">
-			
-		</div> -->
-		<div class="footer-copyright">
-			<div class="footer-inner">
-				&copy; HoloHex Corp. 2015 // <?php echo date("Y"); ?>. All rights reserved.
-			</div>
-		</div>
-	</footer>
-
-</body>
-
-</html>
+<?php require_once("./includes/footer.php"); ?>

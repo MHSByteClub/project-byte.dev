@@ -1,0 +1,14 @@
+	<footer class="footer">
+		<!-- Not needed for now <div class="footer-inner">
+			
+		</div> -->
+		<div class="footer-copyright">
+			<div class="footer-inner">
+				&copy; HoloHex Corp. 2015 // <?php echo date("Y"); ?>. All rights reserved.
+			</div>
+		</div>
+	</footer>
+
+</body>
+
+</html>
