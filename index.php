@@ -1,36 +1,6 @@
-<?php $site = "http://".$_SERVER['SERVER_NAME'].""; date_default_timezone_set('America/Chicago'); ?>
-
-<!DOCTYPE html>
-
-<html>
-
-<head>
-
-	<title>Project Byte</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="<?php echo $site; ?>/assets/css/bootstrap.css" />
-	<link rel="stylesheet" type="text/css" href="<?php echo $site; ?>/assets/css/main.css" />
-
-</head>
-
-<body>
-
-	<!-- Regular Nav <nav class="nav">
-		<div class="nav-inner">
-			<a class="brand" href="#">Project Byte</a>
-			<a href="#">Home</a>
-			<a href="#">Browse</a>
-		</div>
-	</nav> -->
-
-	<nav class="nav-hero">
-		<div class="nav-inner">
-			<a class="brand" href="#">Project Byte</a>
-			<a href="#" style="margin-left: 15px;">Home</a>
-			<a href="#">Browse</a>
-			<div class="clear"></div>
-		</div>
-	</nav>
+<!-- Navigation specifically for pages with a hero image. Should only be one page... -->
+<!-- require_once is a php parameter that makes the file specified only included once in the file. If it can't be found, the rest of the page won't load. IF there's a repeated require_once for the same file, it won't be included in the page again -->
+<?php require_once("./includes/hero-nav.php"); ?>
 
 	<div class="hero-wrapper">
 		<div class="hero">
