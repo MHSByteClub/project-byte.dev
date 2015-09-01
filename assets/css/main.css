@@ -18,7 +18,8 @@ body {
   .nav > .nav-inner {
     width: 75%;
     margin-left: auto;
-    margin-right: auto; }
+    margin-right: auto;
+    transition: all 0.5s ease; }
     .nav > .nav-inner > a {
       width: auto;
       float: left;
@@ -46,6 +47,10 @@ body {
         background: #4E6570;
         transition: all 0.18s ease; }
 
+@media (min-width: 800px) and (max-width: 1080px) {
+  .nav .nav-inner {
+    width: 90%;
+    transition: all 0.5s ease; } }
 /* Hero Navigation */
 .nav-hero {
   top: 0;
