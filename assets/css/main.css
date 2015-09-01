@@ -105,8 +105,8 @@ body {
       text-decoration: none;
       transition: all 0.18s ease; }
       .nav-hero > .nav-inner > a:hover {
-        transition: all 0.18s ease;
-        background: #4E6570; }
+        background: #4E6570;
+        transition: all 0.18s ease; }
 
 @media (max-width: 800px) {
   .nav-hero {
