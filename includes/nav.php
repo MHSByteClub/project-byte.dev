@@ -1,4 +1,4 @@
-<?php $site = "http://".$_SERVER['SERVER_NAME'].""; date_default_timezone_set('America/Chicago'); ?>
+<?php $site = "//".$_SERVER['SERVER_NAME'].""; date_default_timezone_set('America/Chicago'); ?>
 
 <!DOCTYPE html>
 
