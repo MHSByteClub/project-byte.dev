@@ -28,7 +28,7 @@
                             <input type="submit" name="subsign" id="subsign" value="Sign Up" />
                         </form>
                         <hr>
-                        <a href="#">Forgot Password?</a> | <a href="#">Need an Account?</a>
+                        <a href="#">Already Have an Account?</a>
                     </p>
                 </div>
             </div> 
