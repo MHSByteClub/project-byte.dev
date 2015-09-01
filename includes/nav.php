@@ -17,8 +17,8 @@
 	
 	<nav class="nav">
 		<div class="nav-inner">
-			<a class="brand" href="#">Project Byte</a>
-			<a href="#">Home</a>
+			<a class="brand" href="<?php echo $site; ?>">Project Byte</a>
+			<a href="<?php echo $site; ?>">Home</a>
 			<a href="#">Browse</a>
 			<a href="#" style="float: right;">Sign In</a>
 			<a href="#" style="float: right;">Sign Up</a>
