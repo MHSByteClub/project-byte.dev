@@ -1,4 +1,4 @@
-<?php require_once("./includes/nav.php"); ?>
+<?php require_once("./assets/core/init.php"); require_once("./includes/nav.php"); ?>
 
     <div class="container">
         
@@ -22,7 +22,7 @@
                             <input type="submit" name="subsign" id="subsign" value="Sign In" />
                         </form>
                         <hr>
-                        <a href="#">Forgot Password?</a> | <a href="#">Need an Account?</a>
+                        <a href="#">Forgot Password?</a> | <a href="<?php echo $site; ?>/signup">Need an Account?</a>
                     </p>
                 </div>
             </div> 
