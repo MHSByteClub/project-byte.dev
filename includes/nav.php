@@ -20,7 +20,7 @@
 			<a class="brand" href="<?php echo $site; ?>">Project Byte</a>
 			<a href="<?php echo $site; ?>">Home</a>
 			<a href="#">Browse</a>
-			<a href="#" style="float: right;">Sign In</a>
+			<a href="<?php echo $site; ?>/signin" style="float: right;">Sign In</a>
 			<a href="#" style="float: right;">Sign Up</a>
 		</div>
 	</nav>
