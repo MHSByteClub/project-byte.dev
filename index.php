@@ -87,7 +87,7 @@
 						<div class="card hover">
 							<img src="http://placehold.it/500x500?text=Text+Is+Cool" />
 							<div class="card-content">
-								<div class="card-title"><a href="#">Project Title</a></div>
+								<div class="card-title"><a href="#">Discussion Title</a></div>
 								<p>Hi</p>
 							</div>
 						</div>
@@ -96,7 +96,7 @@
 						<div class="card hover">
 							<img src="http://placehold.it/500x500?text=Text+Is+Cool" />
 							<div class="card-content">
-								<div class="card-title"><a href="#">Project Title</a></div>
+								<div class="card-title"><a href="#">Discussion Title</a></div>
 								<p>Hi</p>
 							</div>
 						</div>

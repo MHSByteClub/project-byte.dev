@@ -20,6 +20,8 @@
 			<a class="brand" href="#">Project Byte</a>
 			<a href="#">Home</a>
 			<a href="#">Browse</a>
+			<a class="right" href="#" style="float: right;">Sign In</a>
+			<a href="#" style="float: right;">Sign Up</a>
 			<div class="clear"></div>
 		</div>
 	</nav>
